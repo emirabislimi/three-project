@@ -1,8 +1,34 @@
 {
+<<<<<<< HEAD
   "hash": "78c18d2b",
   "configHash": "6ba46f8b",
   "lockfileHash": "e3b0c442",
   "browserHash": "7d825c10",
   "optimized": {},
   "chunks": {}
+=======
+  "hash": "2ecf7f58",
+  "configHash": "276dee19",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "50976f70",
+  "optimized": {
+    "three": {
+      "src": "../../week2/node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "fca3e2f1",
+      "needsInterop": false
+    },
+    "three/tsl": {
+      "src": "../../week2/node_modules/three/build/three.tsl.js",
+      "file": "three_tsl.js",
+      "fileHash": "7a5f3689",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-TI3UM6O2": {
+      "file": "chunk-TI3UM6O2.js"
+    }
+  }
+>>>>>>> 08ea0ca (Save local changes before pulling)
 }
